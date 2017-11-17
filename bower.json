@@ -1,0 +1,21 @@
+{
+  "name": "bower-to-yarn",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "fazt <me@faztweb.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/FaztWeb/bower-to-yarn",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7"
+  }
+}

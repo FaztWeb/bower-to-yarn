@@ -1,0 +1,23 @@
+{
+  "name": "bower-to-yarn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "./node_modules/bower/bin/bower install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaztWeb/bower-to-yarn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FaztWeb/bower-to-yarn/issues"
+  },
+  "homepage": "https://github.com/FaztWeb/bower-to-yarn#readme",
+  "devDependencies": {
+    "bower": "^1.8.2"
+  }
+}
